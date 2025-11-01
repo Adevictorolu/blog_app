@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         scaffoldBackgroundColor: Colors.blue.shade200
       ),
-      home: Stories(),
+      home: StoriesPage(),
     );
   }
 }
