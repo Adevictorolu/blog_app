@@ -32,8 +32,7 @@ class _HomescreenState extends State<Homescreen> {
       body: Column(
         children: [
           // Checkbox(
-          //   value: _ischecked,
-          //   onChanged: (value) {
+          //   valu:{Panged: (value) {
           //     setState(() {
           //       _ischecked = value ?? false;
           //     });
